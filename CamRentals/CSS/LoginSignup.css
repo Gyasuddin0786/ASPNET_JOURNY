@@ -1,0 +1,49 @@
+﻿body {
+}
+#profileIcon, #notificationIcon {
+    cursor: pointer;
+}
+
+.dropdown-menu {
+    position: absolute;
+    right: 0;
+    z-index: 1050;
+    display: block;
+}
+
+#notificationDropdown {
+    top: 60px;
+    right: 40px;
+}
+
+#profileDropdown {
+    top: 60px;
+    right: 10px;
+}
+
+/* Login/Signup Form */
+.auth-form {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+    .auth-form h2 {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .auth-form .form-control {
+        margin-bottom: 15px;
+    }
+
+    .auth-form .toggle-link {
+        display: block;
+        text-align: center;
+        margin-top: 15px;
+        cursor: pointer;
+        color: #007bff;
+    }
