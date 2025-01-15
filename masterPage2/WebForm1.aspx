@@ -10,13 +10,13 @@
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="..." class="d-block w-100" alt="...">
+      <img src="https://images.pexels.com/photos/28271638/pexels-photo-28271638/free-photo-of-a-desert-landscape-with-mountains-in-the-background.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load" class="d-block w-100" alt="..." style="height:600px;">
     </div>  
     <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
+      <img src="https://images.pexels.com/photos/30186417/pexels-photo-30186417/free-photo-of-paragliding-adventure-over-scenic-mountain-range.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load" class="d-block w-100" alt="..." style="height:600px;">
     </div>
     <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
+      <img src="https://images.pexels.com/photos/374631/pexels-photo-374631.jpeg?auto=compress&cs=tinysrgb&w=600" class="d-block w-100" alt="..." style="height:600px;">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -29,3 +29,4 @@
   </button>
 </div>
 </asp:Content>
+
