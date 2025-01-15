@@ -1,0 +1,26 @@
+﻿body {
+}
+/* profile  and notification css start from here*/
+profileIcon, #notificationIcon {
+    cursor: pointer;
+}
+
+.dropdown-menu {
+    position: absolute;
+    right: 0;
+    z-index: 1050;
+    display: block;
+    /*            width:40px !important;
+            */
+}
+
+#notificationDropdown {
+    top: 60px;
+    right: 40px;
+}
+
+#profileDropdown {
+    top: 60px;
+    right: 10px;
+}
+/* profile  and notification css end from here*/
